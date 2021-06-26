@@ -1,4 +1,5 @@
-
+# LetUsPaint
+#### Video Demo:  https://youtu.be/MXM57_Mpuio
 
 The goal is to remake MS Paint
 (including its [little-known features](#did-you-know)),
